@@ -12,4 +12,7 @@
 3. Issue를 Open 해주시고, 같이 얘기해보고 싶은 사람을 Assignee로 설정해주세요. (필수 사항)
 4. Issue가 해결되면 Merge 해주세요.
 
-## Contributor
+## 💫 Contributors
+| <img src="https://avatars.githubusercontent.com/u/116702892?v=4" width="150" height="150" alt="박진수"> | <img src="https://avatars.githubusercontent.com/u/80433455?v=4" width="150" height="150" alt="김지흔"> |
+|:---:|:---:|
+| [박진수](https://github.com/jinsupark4255) | [김지흔](https://github.com/jiheunkim) |
