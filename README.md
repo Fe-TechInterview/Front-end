@@ -51,8 +51,8 @@
 <table>
 <tbody>
 <tr>
-<td align="center"> <img width="150"  alt="박진수 깃허브 프로필 이미지" src="https://github.com/user-attachments/assets/ea14ec03-780b-41db-86e8-6ef05d165f4c"></td>
-<td align="center"> <img width="150" alt="김지흔 깃허브 프로필 이미지" src="https://github.com/user-attachments/assets/9eddab83-5991-44c2-9c76-8b02d861124b"></td>
+<td align="center"> <img width="150"  alt="박진수 깃허브 프로필 이미지" src="https://github.com/user-attachments/assets/4b00dba2-eb5b-4d0b-bca0-867dd8a258f8"></td>
+<td align="center"> <img width="150" alt="김지흔 깃허브 프로필 이미지" src="https://github.com/user-attachments/assets/fef02a18-1e6d-48d3-b43d-fa21f424e59e"></td>
 </tr>
 <tr>
 <th align="center">박진수</th>
