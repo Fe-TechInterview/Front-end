@@ -1,3 +1,24 @@
+<div align="center">
+
+# 🫛 프론트엔드 기술 스터디 🫛
+
+<img alt="강낭콩나라" src="https://github.com/user-attachments/assets/149253b1-e7e9-4176-ae49-6dc95c385c1d" width="450" />
+
+<br />
+
+</div>
+
+## ✨ 스터디 방식 ✨
+
+<div align="left">
+  
+- 매주 시간이 될 때 프론트엔드 공부를 각자 진행합니다.
+- 새롭게 배운 내용을 마크다운 형식으로 정리합니다.
+- 매주 금요일, 정리한 내용을 Pull Request 보냅니다.
+
+</div>
+
+<br />
 
 <div align="left">
 
@@ -19,5 +40,31 @@
 3. Issue를 Open 해주시고, 같이 얘기해보고 싶은 사람을 Assignee로 설정해주세요. (필수 사항)
 4. Issue가 해결되면 Merge 해주세요.
 
+<br/>
+
+<div align="center">
+
+<br/>
+
+## 🤓 스터디원 🤓
+
+<table>
+<tbody>
+<tr>
+<td align="center"> <img width="150"  alt="박진수 깃허브 프로필 이미지" src="https://github.com/user-attachments/assets/ea14ec03-780b-41db-86e8-6ef05d165f4c"></td>
+<td align="center"> <img width="150" alt="김지흔 깃허브 프로필 이미지" src="https://github.com/user-attachments/assets/9eddab83-5991-44c2-9c76-8b02d861124b"></td>
+</tr>
+<tr>
+<th align="center">박진수</th>
+<th align="center">김지흔</th>
+</tr>
+<tr>
+<td align="center" width="150"><a href="https://github.com/jinsupark4255">@jinsupark4255</a></td>
+<td align="center" width="150"><a href="https://github.com/jiheunkim">@jiheunkim</a></td>
+</tr>
+</tbody>
+</table>
+
+</div>
 </div>
 
