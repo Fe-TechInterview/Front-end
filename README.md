@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # 🫛 프론트엔드 기술 스터디 🫛
 
