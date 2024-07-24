@@ -2,7 +2,7 @@
 
 # 🫛 프론트엔드 기술 스터디 🫛
 
-<img alt="강낭콩나라" src="https://github.com/user-attachments/assets/149253b1-e7e9-4176-ae49-6dc95c385c1d" width="450" />
+<img alt="강낭콩나라" src="https://github.com/user-attachments/assets/140c8c77-f2f9-49eb-8885-b3dce61d724f" width="450" />
 
 <br />
 
