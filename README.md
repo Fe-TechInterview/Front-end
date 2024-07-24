@@ -1,14 +1,3 @@
-<div align="center">
-
-# ✨ 프론트엔드 기술 면접 대비 ✨
-
-| <img src="https://github.com/user-attachments/assets/2260bcd5-e1c7-4163-8609-bd6cfc081e7d" width="200px" /> |
-| ------------------------------------------------------ |
-
-![STUDY_START](https://img.shields.io/badge/START-2024--07--20-blue)
-![STUDY_END](https://img.shields.io/badge/END-undefined-yellow)
-
-<br />
 
 <div align="left">
 
