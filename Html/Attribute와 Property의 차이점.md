@@ -64,7 +64,7 @@ JavaScript를 통해 `getAttribute`와 `setAttribute`를 사용하여 이 값을
 
 ## 🤔 DOM이란?
 
-**DOM(Document Object Model)**은 **HTML, XHTML, XML 문서의 프로그래밍 인터페이스**입니다. DOM은 문서의 구조화된 표현을 제공하며, 프로그래밍 언어를 통해 문서의 내용과 구조를 변경할 수 있게 합니다. `DOM`은 웹 페이지가 로드될 때 브라우저에 의해 생성됩니다.
+**DOM**(**Document Object Model**)은 **HTML, XHTML, XML 문서의 프로그래밍 인터페이스**입니다. DOM은 문서의 구조화된 표현을 제공하며, 프로그래밍 언어를 통해 문서의 내용과 구조를 변경할 수 있게 합니다. `DOM`은 웹 페이지가 로드될 때 브라우저에 의해 생성됩니다.
 
 ### DOM의 역할
 
