@@ -55,9 +55,9 @@ nickname = 'heun'
 console.log(nickname) // heun
 
 // 엄격 모드
-;('use strict')
-nickname = 'heun' // Uncaught ReferenceError: nickname is not defined
-console.log(nickname)
+"use strict";
+nickname = "heun"; // Uncaught ReferenceError: nickname is not defined
+console.log(nickname);
 ```
 
 이처럼 엄격 모드에서는 변수를 선언하기 전에 사용하면 오류가 발생합니다.
